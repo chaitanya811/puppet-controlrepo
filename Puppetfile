@@ -29,11 +29,11 @@ mod 'ntp',
 
 mod 'role', 
   :git => 'https://github.com/chaitanya811/puppet-role.git',
-  :ref => 'master'
+  :ref => 'devlopment'
 
 mod 'profile',
   :git => 'https://github.com/chaitanya811/puppet-profile.git',
-  :ref => 'master'
+  :ref => 'devlopment'
 #mod 'nginx',
  # :git => 'https://github.com/chaitanya811/puppet-nigix.git',
   #:ref => 'master'
